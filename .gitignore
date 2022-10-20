@@ -1,0 +1,9 @@
+# Folder
+__pycache__
+.venv
+
+# File
+barcode.py
+Models/*
+!Models/best_v2.pt
+!Models/last_v2.pt
